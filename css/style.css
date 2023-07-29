@@ -27,7 +27,7 @@
 }
 .nav-list li{
     list-style-type: none;
-    margin-left: 60px;
+    margin-left: auto;
 }
 .nav-list li a{
     text-decoration: none;
