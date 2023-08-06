@@ -2,7 +2,7 @@
 
 Welcome to my digital marketing front-end website! This project was built with HTML, CSS, and jQuery to provide a visually stunning and interactive experience for users interested in digital marketing.
 
-![Website Preview](images/website_preview.jpg)
+![Website Preview](img/Capture.JPG)
 
 ## Features
 
@@ -18,13 +18,9 @@ Welcome to my digital marketing front-end website! This project was built with H
 
 ### Mobile View
 
-![Mobile View](images/mobile_view.jpg)
+![Mobile View](img/Capture-m.JPG)
 
-### Large Screen View
 
-![Large Screen View](images/large_screen_view.jpg)
-
-## Live Demo
 
 Experience the website live by visiting [here](https://pathugit.github.io/digital-darketing-website/).
 
